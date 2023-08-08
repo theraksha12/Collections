@@ -1,0 +1,48 @@
+C:\Users\Dharshini\Downloads\may 22\stackqueue\bin\Debug\net6.0-windows\stackqueue.exe
+C:\Users\Dharshini\Downloads\may 22\stackqueue\bin\Debug\net6.0-windows\stackqueue.deps.json
+C:\Users\Dharshini\Downloads\may 22\stackqueue\bin\Debug\net6.0-windows\stackqueue.runtimeconfig.json
+C:\Users\Dharshini\Downloads\may 22\stackqueue\bin\Debug\net6.0-windows\stackqueue.dll
+C:\Users\Dharshini\Downloads\may 22\stackqueue\bin\Debug\net6.0-windows\stackqueue.pdb
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.csproj.AssemblyReference.cache
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue_MarkupCompile.cache
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue_MarkupCompile.lref
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.g.resources
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.AssemblyInfoInputs.cache
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.AssemblyInfo.cs
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.csproj.CoreCompileInputs.cache
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.dll
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\refint\stackqueue.dll
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.pdb
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\stackqueue.genruntimeconfig.cache
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\ref\stackqueue.dll
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\genaric.g.cs
+C:\Users\Dharshini\Downloads\may 22\stackqueue\obj\Debug\net6.0-windows\genaric.baml
+D:\Theraksha.Dotnet\stackqueue\bin\Debug\net6.0-windows\stackqueue.exe
+D:\Theraksha.Dotnet\stackqueue\bin\Debug\net6.0-windows\stackqueue.deps.json
+D:\Theraksha.Dotnet\stackqueue\bin\Debug\net6.0-windows\stackqueue.runtimeconfig.json
+D:\Theraksha.Dotnet\stackqueue\bin\Debug\net6.0-windows\stackqueue.dll
+D:\Theraksha.Dotnet\stackqueue\bin\Debug\net6.0-windows\stackqueue.pdb
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.csproj.AssemblyReference.cache
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\genaric.g.cs
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\App.g.cs
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue_MarkupCompile.cache
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue_MarkupCompile.lref
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\genaric.baml
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.g.resources
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.AssemblyInfoInputs.cache
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.AssemblyInfo.cs
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.csproj.CoreCompileInputs.cache
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.dll
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\refint\stackqueue.dll
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.pdb
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\stackqueue.genruntimeconfig.cache
+D:\Theraksha.Dotnet\stackqueue\obj\Debug\net6.0-windows\ref\stackqueue.dll
